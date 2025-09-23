@@ -141,12 +141,8 @@ xor3.vcd             # シミュレーション波形データ
 
 ```text
 logic/
-├── LG/
-│   ├── xor3.v
-│   ├── xor3_tb.v
-│   ├── alu8.v
-│   ├── alu8_tb.v
-│   └── Vol5/
+├── Archive/
+│   └── Vol2/
 │       ├── add1.v
 │       ├── add1_tb.v
 │       └── ...
@@ -158,7 +154,7 @@ logic/
 ### 実行ログ例
 
 ```text
-=== xor3 の実行を開始 (/Users/eigou/logic/LG) ===
+=== xor3 の実行を開始 (/Users/logic/vol1) ===
 実行中: iverilog -Wall -o xor3 xor3_tb.v xor3.v
 コンパイル成功
 実行中: vvp xor3
