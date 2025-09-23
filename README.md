@@ -2,6 +2,11 @@
 
 GUIベースのVerilogシミュレーション実行ツール
 
+
+## 推奨
+VScode の " Code Runner " 拡張機能の使用を強くおすすめします。
+[Code Runner 拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
 ## 概要
 
 Verilog HDL Runnerは、VerilogファイルのコンパイルとシミュレーションをGUIで簡単に実行できるPythonスクリプトです。  
@@ -89,11 +94,6 @@ python Verilog_HDL_Runner.py
 
 ## 使用方法
 
-### 推奨環境
-
-VScode の " Code Runner " 拡張機能の使用を強くおすすめします。
-[Code Runner 拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-
 ### 基本的な使い方
 
 1. **アプリケーション起動**
@@ -101,6 +101,8 @@ VScode の " Code Runner " 拡張機能の使用を強くおすすめします�
    ```bash
    python Verilog_HDL_Runner.py
    ```
+VScode の " Code Runner " 拡張機能の使用を強くおすすめします。
+[Code Runner 拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 2. **ディレクトリ選択**
 
