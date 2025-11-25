@@ -3,6 +3,9 @@
 GUIベースのVerilogシミュレーション実行ツール
 
 
+[ダウンロードリンク](https://github.com/PhenylPropion/VerilogHDL-Runner/releases/tag/2.1_ver_Python#:~:text=Verilog_HDL_Runner.py)
+
+
 ## 推奨
 VScode の " Code Runner " 拡張機能の使用を強くおすすめします。
 [Code Runner 拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
