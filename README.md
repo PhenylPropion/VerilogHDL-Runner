@@ -3,7 +3,7 @@
 GUIベースのVerilogシミュレーション実行ツール
 
 
-[ダウンロードリンク](https://github.com/PhenylPropion/VerilogHDL-Runner/releases/tag/2.1_ver_Python#:~:text=Verilog_HDL_Runner.py)
+[ダウンロードリンク](https://github.com/PhenylPropion/VerilogHDL-Runner/releases/download/2.1_ver_Python/Verilog_HDL_Runner.py)
 
 
 ## 推奨
