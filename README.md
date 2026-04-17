@@ -10,7 +10,6 @@ GUIベースのVerilogシミュレーション実行ツール
 VScode の " Code Runner " 拡張機能の使用を強くおすすめします。
 [Code Runner 拡張機能](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 <img width="700" height="500" alt="スクリーンショット 2025-09-24 9 05 07" src="https://github.com/user-attachments/assets/4d877fc5-226d-4dd1-aecd-c1ef2287323d" />
-<img width="700" height="500" alt="スクリーンショット 2025-09-24 9 03 14" src="https://github.com/user-attachments/assets/c3f4f162-b775-46f6-ae43-2aff7b4945aa" />
 
 ## 概要
 
